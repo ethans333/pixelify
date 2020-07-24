@@ -41,4 +41,4 @@ This simple if-then statement makes sure that the only pixel colors being used a
 These last two for loops make each pixel color around the center one, relative to the ```cubeWidth```, equal the color of the center pixel.
 
 ## Results
-![GitHub Logo](/Screen Shot 2020-07-24 at 1.10.14 PM.png)
+![Before & After](https://github.com/ethans333/pixelify/blob/master/beforeAfter.png)
