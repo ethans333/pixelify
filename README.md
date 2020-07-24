@@ -39,3 +39,5 @@ This simple if-then statement makes sure that the only pixel colors being used a
                         img[a, b - cubeRange] = img[cordinate]
 ```
 These last two for loops make each pixel color around the center one, relative to the ```cubeWidth```, equal the color of the center pixel.
+
+##Results 
