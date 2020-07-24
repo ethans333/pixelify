@@ -1,7 +1,5 @@
 # Pixelify 🎨 
-This rudimentary python script lowers the quality of your images.
-
-This 9 line algorithm basically picks every other pixel, which is based on what you set the cube width to, and reads that pixels rgb color. It then changes the color of every pixel around it to the orginal pixel's color. The only mutable value is the intensity at which you can decrease the quality of the image.
+This rudimentary nine line python script lowers the quality of your imagesby picking every other pixel, which is based on what you set the ```cubeWidth``` to, and reads that pixels rgb color. It then changes the color of every pixel around it to the orginal pixel's color. The only mutable value is the intensity at which you can decrease the quality of the image.
 
 ## Looking at the code
 
